@@ -1,5 +1,6 @@
 # blue-archive-logos
 SVG format Blue Archive halos, clubs and school logos, etc.
+
 Copyrights belong to Nexon &amp; Yostar.
 # Preview
 1. Logo of Trinity General School, without cross
