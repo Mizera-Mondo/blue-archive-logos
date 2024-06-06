@@ -2,10 +2,8 @@
 SVG format Blue Archive halos, clubs and school logos, etc.
 
 Copyrights belong to Nexon &amp; Yostar.
-# Preview
-1. Logo of Trinity General School, without cross
-2. The envelope of Reisa's challenge :)
-
-![](https://github.com/Mizera-Mondo/blue-archive-logos/blob/main/schools/trinity-simple-tbnl.png)
-
+# Previews
+![](https://github.com/Mizera-Mondo/blue-archive-logos/blob/main/halos/tendou-arisu.png)
+![](https://github.com/Mizera-Mondo/blue-archive-logos/blob/main/halos/uzawa-reisa.png)
+![](https://github.com/Mizera-Mondo/blue-archive-logos/blob/main/halos/yutori-natsu.png)
 ![](https://github.com/Mizera-Mondo/blue-archive-logos/blob/main/others/reisa-challenge-envelope.png)
